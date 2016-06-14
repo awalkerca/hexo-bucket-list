@@ -1,0 +1,8 @@
+{
+  "name": "hexo-bucket-list",
+  "version": "0.0.1",
+  "main": "index",
+  "dependencies": {
+    "cheerio": "^0.20.0"
+  }
+}
